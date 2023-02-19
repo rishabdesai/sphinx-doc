@@ -1,0 +1,4 @@
+build/
+sources/_templages/
+.vscode
+.mypy_cache
