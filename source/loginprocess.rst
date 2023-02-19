@@ -1,0 +1,48 @@
+Login Page Details
+=====================
+
+In this section, you will learn to:
+* :ref:`Login page details <loginpage>`
+* :ref:`Steps to login <loginpoints>`
+* :ref:`Home page <loginhomepage>` 
+
+.. _loginpage:
+
+Login page Entry
+------------------
+
+* Below is the image of login page
+
+.. image:: /images/2.png
+   :alt: Login page 
+   :scale: 40%
+
+   
+
+.. _loginpoints:
+
+Steps to Login:
+--------------------
+
+* Enter server URL
+* Enter username
+* Enter password
+* click on LOGIN Button
+
+
+.. _loginhomepage:
+
+Home page
+------------
+
+* This is homepage 
+  
+.. seealso:: Recommended
+   We commended to use save username and password for individual assigned devices
+
+
+* Home page is simple
+
+.. warning::
+   Warning Warning Warning! 
+
